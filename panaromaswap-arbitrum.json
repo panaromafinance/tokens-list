@@ -1,0 +1,77 @@
+{
+  "name": "Arbitrum Token List",
+  "logoURI": "https://arbiscan.io/images/svg/brands/arbitrum.svg?v=1.5",
+  "timestamp": "2023-08-02T21:28:34.515Z",
+  "keywords": [
+    "polygon",
+    "matic",
+    "infrastructure"
+  ],
+  "tokens": [
+    {
+      "name": "Arbitrum",
+      "decimals": 18,
+      "symbol": "ARB",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "chainId": 42161,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 42161,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "chainId": 42161,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Panaroma Token",
+      "decimals": 8,
+      "symbol": "PANA",
+      "address": "0x4e5E55bAeEf3bc747D22123cE4ADE3661c916a3e",
+      "chainId": 42161,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "name": "USD Coin (PoS)",
+      "decimals": 8,
+      "symbol": "USDC",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "tags": [
+        "token"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  }
+}

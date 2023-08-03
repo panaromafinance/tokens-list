@@ -1,0 +1,87 @@
+{
+  "name": "Optimism Token List",
+  "logoURI": "https://optimistic.etherscan.io/images/svg/brands/optimism.svg?v=1.3",
+  "timestamp": "2023-08-02T21:28:34.515Z",
+  "keywords": [
+    "polygon",
+    "matic",
+    "infrastructure"
+  ],
+  "tokens": [
+    {
+      "name": "Optimism",
+      "decimals": 18,
+      "symbol": "OP",
+      "address": "0x4200000000000000000000000000000000000042",
+      "chainId": 10,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 10,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "chainId": 10,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 10,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Panaroma Token",
+      "decimals": 8,
+      "symbol": "PANA",
+      "address": "0x4e5E55bAeEf3bc747D22123cE4ADE3661c916a3e",
+      "chainId": 10,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "name": "USD//C",
+      "decimals": 6,
+      "symbol": "USDC",
+      "address": "0xF7504d05db7aC49c4b7649CA148c2b0f66d80459",
+      "chainId": 10,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "name": "USD Coin (PoS)",
+      "decimals": 8,
+      "symbol": "USDC",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "tags": [
+        "token"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  }
+}

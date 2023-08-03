@@ -1,0 +1,67 @@
+{
+  "name": "Ethereum Token List",
+  "logoURI": "https://etherscan.io/images/svg/brands/ethereum-original.svg",
+  "timestamp": "2023-08-02T21:28:34.515Z",
+  "keywords": [
+    "polygon",
+    "matic",
+    "infrastructure"
+  ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "Panaroma Token",
+      "decimals": 8,
+      "symbol": "PANA",
+      "address": "0x4e5E55bAeEf3bc747D22123cE4ADE3661c916a3e",
+      "chainId": 1,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "name": "USD Coin (PoS)",
+      "decimals": 8,
+      "symbol": "USDC",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "tags": [
+        "token"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  }
+}
