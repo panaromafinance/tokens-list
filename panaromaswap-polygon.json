@@ -47,6 +47,26 @@
       "tags": [
         "token"
       ]
+    },
+    {
+      "name": "BlockAura Classic",
+      "decimals": 8,
+      "symbol": "BACL",
+      "address": "0x6bcBC54262351007ce362b63E6fFd12fae85EB0E",
+      "chainId": 137,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "name": "Blockaura Eternity",
+      "decimals": 8,
+      "symbol": "BAE",
+      "address": "0x920D37Fc843A304d0BA039900C70f555B501c5CD",
+      "chainId": 137,
+      "tags": [
+        "token"
+      ]
     }
   ],
   "version": {
